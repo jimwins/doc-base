@@ -359,7 +359,7 @@
 <!ENTITY url.php.mailing-lists "https://www.php.net/mailing-lists.php">
 <!ENTITY url.php.museum "https://museum.php.net/">
 <!ENTITY url.php.news "news://news.php.net/">
-<!ENTITY url.php.newsweb "http://news.php.net/">
+<!ENTITY url.php.newsweb "http://news-web.php.net/">
 <!ENTITY url.php.pear.manual "https://pear.php.net/manual/">
 <!ENTITY url.php.pear "https://pear.php.net/">
 <!ENTITY url.php.pear.cli "https://pear.php.net/manual/en/guide.users.commandline.cli.php">
